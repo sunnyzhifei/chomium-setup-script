@@ -11,6 +11,6 @@ curl -O https://raw.githubusercontent.com/sunnyzhifei/chomium-setup-script/refs/
 ```
 
 ### View
-[![pA2AGwt.png](https://s21.ax1x.com/2024/11/15/pA2AGwt.png)]
+![pA2AGwt.png](https://s21.ax1x.com/2024/11/15/pA2AGwt.png)
 
-[![pA2AtFf.png](https://s21.ax1x.com/2024/11/15/pA2AtFf.png)]
+![pA2AtFf.png](https://s21.ax1x.com/2024/11/15/pA2AtFf.png)
