@@ -90,7 +90,7 @@ EOF
 
 # 启动服务
 start_service() {
-    docker-compose up -d
+    docker compose up -d
     if [ $? -eq 0 ]; then
         echo "服务启动成功！"
         IP=$(curl ip.sb)
